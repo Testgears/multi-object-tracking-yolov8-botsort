@@ -70,17 +70,3 @@ The pipeline is composed of three main stages:
 
 ---
 
-## Repository Structure
-
-```text
-multi-object-tracking-yolov8-botsort/
-├── data/
-│   └── cup_video.mov
-├── notebooks/
-│   └── TP3_MultiObjectTracking_YOLOv8_BoTSORT.ipynb
-├── report/
-│   └── INF6804_TP3_Report.pdf
-├── results/
-│   └── botsort/
-│       └── cup_video.mp4
-└── README.md
